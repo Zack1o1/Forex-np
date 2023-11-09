@@ -101,6 +101,15 @@ tbody tr:hover{
     }
 }
 @media screen and (max-width:395px) {
+     #heading{
+        font-size: 1.5em;
+    }
+    .forex-date{
+        font-size: 1.35em;
+    }
+    th{
+        font-size: 1.01em;
+    }
     table{
         width: 95%;
     }
